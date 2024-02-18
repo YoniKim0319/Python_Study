@@ -39,7 +39,7 @@ if __name__ == '__main__':
     print(a-b)
     print(a*b)
 
-# Task3: Loops (해맴)
+# Task3: Loops (문제 해석 때문에 해맴)
 '''The provided code stub reads and integer, n , from STDIN. For all non-negative integers i<n , print i**2.'''
 if __name__ == '__main__':
     n = int(input())
